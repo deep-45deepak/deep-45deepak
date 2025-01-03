@@ -69,10 +69,10 @@
 <h2>🌍 Connect with Me 🌐</h2>
 
 <ul>
-  <li><b>Twitter:</b> <a href="https://x.com/dpk45deepak?t=rHcZO5TpBVN69gHSD3y4Ew&s=08">@Deepak_Kumar 🐦</a></li>
-  <li><b>GitHub:</b> <a href="https://github.com/deep-45deepak">deepakgithub 🐙</a></li>
-  <li><b>LinkedIn:</b> <a href="[https://linkedin.com/in/deepakkumar](https://www.linkedin.com/in/deepak-kumar-15690b323?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)">Deepak Kumar 🌟</a></li>
-  <li><b>Portfolio:</b> <a href="https://www.deepakportfolio.com">www.deepakportfolio.com 💼</a></li>
+  <li><b>Twitter:</b> <a href="https://x.com/dpk45deepak?t=rHcZO5TpBVN69gHSD3y4Ew&s=08"> @dpk.45deepak 🍃</a></li>
+  <li><b>GitHub:</b> <a href="https://github.com/deep-45deepak"> @deep.45deepak 🍃</a></li>
+  <li><b>LinkedIn:</b> <a href="https://www.linkedin.com/in/deepak-kumar-15690b323?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"> Deepak Kumar 🍃</a></li>
+  <li><b>Portfolio:</b> <a href="https://www.deepakportfolio.com"> @dpkportfolio 💼</a></li>
 </ul>
 
 ---
