@@ -1,4 +1,4 @@
-<h1 align="center">🌟 Welcome to the Profile of Deepak Kumar! 🌟</h1>
+<h1 align="center">🌟 Welcome to the Profile <br> I'm Deepak Kumar! 🌟</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=500&color=F7B800&width=435&lines=Hello+there!+👋;Welcome+to+my+GitHub+profile!;I'm+a+passionate+CSE+student+%F0%9F%92%BB;Let's+code%2C+learn%2C+and+grow+together!+🚀" alt="Typing Animation" />
@@ -10,16 +10,16 @@
 
 <ul>
   <li>🎓 <b>Currently:</b> A B.Tech student specializing in Computer Science Engineering (CSE).</li>
-  <li>🧠 <b>Learning:</b> React, Data Structures, Algorithms, and Full Stack Development.</li>
+  <li>🧠 <b>Learning:</b>Data Structures, Algorithms, and Development.</li>
 </ul>
 
-<h3>💻 Programming Languages:</h3>
+<h3>Programming and Development Skills</h3>
 <ul>
   <li>JavaScript 🔥</li>
   <li>Python 🐍</li>
-  <li>C++ 💻</li>
-  <li>Java ☕</li>
+  <li>C 💻</li>
   <li>HTML & CSS 🌐</li>
+  <li>TAilwind CSS 🍃</li>
 </ul>
 
 ---
@@ -27,9 +27,9 @@
 <h2>🚀 Tech Stack 🛠</h2>
 
 <ul>
-  <li><b>Frontend:</b> React ⚛ | HTML5 🔥 | CSS3 🌈 | JavaScript 🖥 | TailwindCSS 💨</li>
+  <li><b>Frontend:</b> HTML5 🔥 | CSS3 🌈 | JavaScript 🖥 | TailwindCSS 💨 |  React ⚛</li>
   <li><b>Backend:</b> Node.js 🟩 | Express.js 🖤</li>
-  <li><b>Databases:</b> MongoDB 🟩 | MySQL 📊</li>
+  <li><b>Databases:</b> MongoDB 🟩</li>
   <li><b>Version Control:</b> GitHub 🐙 | Git 🧑‍💻</li>
 </ul>
 
@@ -46,13 +46,13 @@
     <h4>1. Blog Website 📝</h4>
     <p><b>Tech Stack:</b> React, Node.js, MongoDB</p>
     <p>A fully functional blog platform where users can create, edit, and view blog posts.</p>
-    <a href="https://your-blog-website.com">🔗 View the Project</a>
+    <a href="https://dpkblog.netlify.app">🔗 View the Project</a>
   </li>
   <li>
     <h4>2. Portfolio Website 📂</h4>
     <p><b>Tech Stack:</b> HTML, CSS, JavaScript</p>
     <p>My personal portfolio showcasing my skills, projects, and achievements.</p>
-    <a href="https://www.deepakportfolio.com">🔗 View the Project</a>
+    <a href="#">🔗 View the Project</a>
   </li>
 </ul>
 
@@ -61,8 +61,7 @@
 <h2>🏆 Achievements 🏅</h2>
 
 <ul>
-  <li>🏁 <b>HackMor Participant:</b> Qualified for the next round of the hackathon. Super excited to keep improving my skills! 💪</li>
-  <li>🏅 <b>Top 10% in Hackathons:</b> Participated in several coding hackathons and achieved good ranks. 🎉</li>
+  <li>🏁 <b>HackMor Participant:</b>Gain some real life experience, Super excited to keep improving my skills! 💪</li>
 </ul>
 
 ---
@@ -70,9 +69,9 @@
 <h2>🌍 Connect with Me 🌐</h2>
 
 <ul>
-  <li><b>LinkedIn:</b> <a href="https://linkedin.com/in/deepakkumar">Deepak Kumar 🌟</a></li>
-  <li><b>Twitter:</b> <a href="https://twitter.com/Deepak_Kumar">@Deepak_Kumar 🐦</a></li>
-  <li><b>GitHub:</b> <a href="https://github.com/deepakgithub">deepakgithub 🐙</a></li>
+  <li><b>Twitter:</b> <a href="https://x.com/dpk45deepak?t=rHcZO5TpBVN69gHSD3y4Ew&s=08">@Deepak_Kumar 🐦</a></li>
+  <li><b>GitHub:</b> <a href="https://github.com/deep-45deepak">deepakgithub 🐙</a></li>
+  <li><b>LinkedIn:</b> <a href="[https://linkedin.com/in/deepakkumar](https://www.linkedin.com/in/deepak-kumar-15690b323?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)">Deepak Kumar 🌟</a></li>
   <li><b>Portfolio:</b> <a href="https://www.deepakportfolio.com">www.deepakportfolio.com 💼</a></li>
 </ul>
 
@@ -84,7 +83,7 @@
 I believe in constant growth and am always learning new things to enhance my coding skills:
 </p>
 <ul>
-  <li><b>Current Learning:</b> React, TypeScript, Full-Stack Development, and Cloud Computing.</li>
+  <li><b>Current Learning:</b>Development</li>
   <li><b>Future Goals:</b> Build open-source contributions, grow my portfolio, and enhance problem-solving skills.</li>
 </ul>
 
@@ -95,7 +94,6 @@ I believe in constant growth and am always learning new things to enhance my cod
 <ul>
   <li>I love solving complex coding problems and algorithm challenges. 🧩</li>
   <li>I enjoy exploring new technologies, tools, and frameworks. 🧑‍💻</li>
-  <li>I am an anime and tech podcast enthusiast. 🎧📱</li>
 </ul>
 
 ---
