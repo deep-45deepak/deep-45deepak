@@ -1,4 +1,4 @@
-<h1 align="center">🌟 Welcome to my Profile <br> &nsbp I'm Deepak Kumar! 🌟</h1>
+<h1 align="center">🌟 Welcome to my Profile <b>I'm Deepak Kumar!</b> 🌟</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=500&color=F7B800&width=435&lines=Hello+there!+👋;Welcome+to+my+GitHub+profile!;I'm+a+passionate+CSE+student+%F0%9F%92%BB;Let's+code%2C+learn%2C+and+grow+together!+🚀" alt="Typing Animation" />
