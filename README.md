@@ -1,4 +1,4 @@
-<h1 align="center">🌟 Welcome to my Profile <b>I'm Deepak Kumar!</b> 🌟</h1>
+<h1 align="center">🌟 Welcome to my Github Profile<br><b>I'm Deepak!</b> 🌟</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=500&color=F7B800&width=435&lines=Hello+there!+👋;Welcome+to+my+GitHub+profile!;I'm+a+passionate+CSE+student+%F0%9F%92%BB;Let's+code%2C+learn%2C+and+grow+together!+🚀" alt="Typing Animation" />
@@ -10,7 +10,7 @@
 
 <ul>
   <li>🎓 <b>Currently:</b> A B.Tech student specializing in Computer Science Engineering (CSE).</li>
-  <li>🧠 <b>Learning:</b>Data Structures, Algorithms, and Development.</li>
+  <li>🧠 <b>Learning:</b> Data Structures, Algorithms, and Web Development.</li>
 </ul>
 
 <h3>Programming and Development Skills</h3>
@@ -19,7 +19,7 @@
   <li>Python 🐍</li>
   <li>C 💻</li>
   <li>HTML & CSS 🌐</li>
-  <li>TAilwind CSS 🍃</li>
+  <li>Tailwind CSS 🍃</li>
 </ul>
 
 ---
@@ -27,7 +27,7 @@
 <h2>🚀 Tech Stack 🛠</h2>
 
 <ul>
-  <li><b>Frontend:</b> HTML5 🔥 | CSS3 🌈 | JavaScript 🖥 | TailwindCSS 💨 |  React ⚛</li>
+  <li><b>Frontend:</b> HTML5 🔥 | CSS3 🌈 | JavaScript 🖥 | TailwindCSS 💨 | React ⚛</li>
   <li><b>Backend:</b> Node.js 🟩 | Express.js 🖤</li>
   <li><b>Databases:</b> MongoDB 🟩</li>
   <li><b>Version Control:</b> GitHub 🐙 | Git 🧑‍💻</li>
@@ -61,7 +61,7 @@
 <h2>🏆 Achievements 🏅</h2>
 
 <ul>
-  <li>🏁 <b>HackMor Participant:</b>Gain some real life experience, Super excited to keep improving my skills! 💪</li>
+  <li>🏁 <b>HackMor Participant:</b> Gained valuable experience, super excited to keep improving my skills! 💪</li>
 </ul>
 
 ---
@@ -79,11 +79,9 @@
 
 <h2>📚 Learning & Growth 🚀</h2>
 
-<p>
-I believe in constant growth and am always learning new things to enhance my coding skills:
-</p>
+<p>I believe in constant growth and am always learning new things to enhance my coding skills:</p>
 <ul>
-  <li><b>Current Learning:</b>Development</li>
+  <li><b>Current Learning:</b> Development</li>
   <li><b>Future Goals:</b> Build open-source contributions, grow my portfolio, and enhance problem-solving skills.</li>
 </ul>
 
@@ -104,6 +102,14 @@ I believe in constant growth and am always learning new things to enhance my cod
   <img src="https://github-readme-stats.vercel.app/api?username=deepakgithub&show_icons=true&theme=radical" alt="Deepak's GitHub Stats" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepakgithub&theme=radical" alt="Deepak's Streak Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepakgithub&theme=radical&layout=compact" alt="Deepak's Most Used Languages" />
+</p>
+
 ---
 
 <h2 align="center">🔥 Let's Build Something Amazing Together! 🤝</h2>
@@ -111,6 +117,7 @@ I believe in constant growth and am always learning new things to enhance my cod
 <p align="center">
   I believe in the power of collaboration and community. Let's connect, share knowledge, and build amazing things! 😄
 </p>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=FF5733&width=435&lines=Stay+tuned+for+more+updates!+💥;Reach+out+for+collaboration+or+guidance!+%F0%9F%91%8C" alt="Typing Animation" />
 </p>
