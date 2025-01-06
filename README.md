@@ -1,4 +1,4 @@
-<h1 align="center">🌟 Welcome to my Github Profile<br><b>I'm Deepak!</b> 🌟</h1>
+<h1 align="center">🌟 Welcome to my Github Profile🌟<br><b>🌟I'm Deepak!</b> 🌟</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=500&color=F7B800&width=435&lines=Hello+there!+👋;Welcome+to+my+GitHub+profile!;I'm+a+passionate+CSE+student+%F0%9F%92%BB;Let's+code%2C+learn%2C+and+grow+together!+🚀" alt="Typing Animation" />
@@ -95,20 +95,38 @@
 </ul>
 
 ---
-
 <h2>👨‍💻 GitHub Stats 📊</h2>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deepakgithub&show_icons=true&theme=radical" alt="Deepak's GitHub Stats" />
-</p>
+<table align="center" border="1" cellpadding="10" cellspacing="0" style="width: 80%; text-align: center; border-collapse: collapse;">
+  <thead>
+    <tr>
+      <th>Metric</th>
+      <th>Value</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Total Commits</b></td>
+      <td><span id="commits">Loading...</span></td>
+    </tr>
+    <tr>
+      <td><b>Followers</b></td>
+      <td><span id="followers">Loading...</span></td>
+    </tr>
+    <tr>
+      <td><b>Repositories</b></td>
+      <td><span id="repos">Loading...</span></td>
+    </tr>
+  </tbody>
+</table>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepakgithub&theme=radical" alt="Deepak's Streak Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepakgithub&theme=radical&layout=compact" alt="Deepak's Most Used Languages" />
-</p>
+<script>
+// Dynamic data loading example
+// These values could be fetched using the GitHub API or other methods for real-time updates
+document.getElementById('commits').innerHTML = "200+"; // Example commit number
+document.getElementById('followers').innerHTML = "50+";
+document.getElementById('repos').innerHTML = "15+";
+</script>
 
 ---
 
