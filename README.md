@@ -120,13 +120,6 @@
   </tbody>
 </table>
 
-<script>
-// Dynamic data loading example
-// These values could be fetched using the GitHub API or other methods for real-time updates
-document.getElementById('commits').innerHTML = "200+"; // Example commit number
-document.getElementById('followers').innerHTML = "50+";
-document.getElementById('repos').innerHTML = "15+";
-</script>
 
 ---
 
