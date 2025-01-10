@@ -1,8 +1,8 @@
-<h1 align="center">🌟 Welcome to my Github Profile🌟<br><b>🌟I'm Deepak!</b> 🍃![PenguinGIF](https://github.com/user-attachments/assets/f565a92a-232e-4d03-ade8-dd5bbf0c6ff5)
+<h1 align="center">🍃 Welcome to my Github Profile🍃<br><b>🍃I'm Deepak!</b> 🍃
 </h1>
 
 <p align="center">
-  ![PenguinGIF](https://github.com/user-attachments/assets/f565a92a-232e-4d03-ade8-dd5bbf0c6ff5)
+  <img src="![PenguinGIF](https://github.com/user-attachments/assets/f565a92a-232e-4d03-ade8-dd5bbf0c6ff5" alt ="GIF" />
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=500&color=FFFFF&width=435&lines=Hello+there!+😎;Welcome+to+my+GitHub+profile!;I'm+a+passionate+CSE+student+%F0%9F%92%BB;Let's+code%2C+learn%2C+and+grow+together!+🚀" alt="Typing Animation" />
 </p>
 
@@ -99,7 +99,7 @@
 ---
 # My GitHub Activity
 
-![Commits This Year](https://github-readme-stats.vercel.app/api?deep-45deepak=deep-45deepak&show_icons=true&count_private=true&hide_title=true&include_all_commits=true)
+![Commits This Year](https://github-readme-stats.vercel.app/api?username=deep-45deepak&show_icons=true&count_private=true&hide_title=true&include_all_commits=true)
 
 
 ---
