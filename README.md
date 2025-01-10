@@ -4,8 +4,8 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=500&color=FFFFF&width=435&lines=Hello+there!+😎;Welcome+to+my+GitHub+profile!;I'm+a+passionate+CSE+student+%F0%9F%92%BB;Let's+code%2C+learn%2C+and+grow+together!+🚀" alt="Typing Animation" />
 </p>
-  <img src="https://github.com/user-attachments/assets/f565a92a-232e-4d03-ade8-dd5bbf0c6ff5" alt="PenguinGIF" width="300" />
----
+  <img src="https://github.com/user-attachments/assets/f565a92a-232e-4d03-ade8-dd5bbf0c6ff5" alt="PenguinGIF" width="100" />
+
 
 <h2>🌱 About Me</h2>
 
@@ -96,12 +96,17 @@
 </ul>
 
 ---
+
 <p align="center">
 # My GitHub Activity
 
-![Commits This Year](https://github-readme-stats.vercel.app/api?username=deep-45deepak&show_icons=true&count_private=true&hide_title=true&include_all_commits=true)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=deep-45deepak&show_icons=true&count_private=true&hide_title=true&include_all_commits=true" alt="Commits This Year" />
+</div>
+
 
 </p>
+
 ---
 
 <h2 align="center">🔥 Let's Build Something Amazing Together! 🤝</h2>
