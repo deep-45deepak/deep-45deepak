@@ -1,3 +1,4 @@
+<p align="center">
 <h1 align="center">🍃 Welcome to my Github Profile🍃<br><b>🍃I'm Deepak!</b> 🍃
 </h1>
 
@@ -112,4 +113,5 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=FF5733&width=435&lines=Stay+tuned+for+more+updates!+💥;Reach+out+for+collaboration+or+guidance!+%F0%9F%91%8C" alt="Typing Animation" />
+</p>
 </p>
