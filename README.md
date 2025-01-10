@@ -1,7 +1,9 @@
-<h1 align="center">🌟 Welcome to my Github Profile🌟<br><b>🌟I'm Deepak!</b> 🌟</h1>
+<h1 align="center">🌟 Welcome to my Github Profile🌟<br><b>🌟I'm Deepak!</b> 🍃![PenguinGIF](https://github.com/user-attachments/assets/f565a92a-232e-4d03-ade8-dd5bbf0c6ff5)
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=500&color=F7B800&width=435&lines=Hello+there!+👋;Welcome+to+my+GitHub+profile!;I'm+a+passionate+CSE+student+%F0%9F%92%BB;Let's+code%2C+learn%2C+and+grow+together!+🚀" alt="Typing Animation" />
+  ![PenguinGIF](https://github.com/user-attachments/assets/f565a92a-232e-4d03-ade8-dd5bbf0c6ff5)
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=500&color=FFFFF&width=435&lines=Hello+there!+😎;Welcome+to+my+GitHub+profile!;I'm+a+passionate+CSE+student+%F0%9F%92%BB;Let's+code%2C+learn%2C+and+grow+together!+🚀" alt="Typing Animation" />
 </p>
 
 ---
@@ -95,30 +97,9 @@
 </ul>
 
 ---
-<h2>👨‍💻 GitHub Stats 📊</h2>
+# My GitHub Activity
 
-<table align="center" border="1" cellpadding="10" cellspacing="0" style="width: 80%; text-align: center; border-collapse: collapse;">
-  <thead>
-    <tr>
-      <th>Metric</th>
-      <th>Value</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><b>Total Commits</b></td>
-      <td><span id="commits">Loading...</span></td>
-    </tr>
-    <tr>
-      <td><b>Followers</b></td>
-      <td><span id="followers">Loading...</span></td>
-    </tr>
-    <tr>
-      <td><b>Repositories</b></td>
-      <td><span id="repos">Loading...</span></td>
-    </tr>
-  </tbody>
-</table>
+![Commits This Year](https://github-readme-stats.vercel.app/api?deep-45deepak=deep-45deepak&show_icons=true&count_private=true&hide_title=true&include_all_commits=true)
 
 
 ---
