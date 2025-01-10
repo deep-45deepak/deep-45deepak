@@ -1,12 +1,10 @@
-<p align="center">
 <h1 align="center">🍃 Welcome to my Github Profile🍃<br><b>🍃I'm Deepak!</b> 🍃
 </h1>
 
 <p align="center">
-  <img src="![PenguinGIF](https://github.com/user-attachments/assets/f565a92a-232e-4d03-ade8-dd5bbf0c6ff5" alt ="GIF" />
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=500&color=FFFFF&width=435&lines=Hello+there!+😎;Welcome+to+my+GitHub+profile!;I'm+a+passionate+CSE+student+%F0%9F%92%BB;Let's+code%2C+learn%2C+and+grow+together!+🚀" alt="Typing Animation" />
 </p>
-
+  <img src="https://github.com/user-attachments/assets/f565a92a-232e-4d03-ade8-dd5bbf0c6ff5" alt="PenguinGIF" width="300" />
 ---
 
 <h2>🌱 About Me</h2>
@@ -98,11 +96,12 @@
 </ul>
 
 ---
+<p align="center">
 # My GitHub Activity
 
 ![Commits This Year](https://github-readme-stats.vercel.app/api?username=deep-45deepak&show_icons=true&count_private=true&hide_title=true&include_all_commits=true)
 
-
+</p>
 ---
 
 <h2 align="center">🔥 Let's Build Something Amazing Together! 🤝</h2>
@@ -112,6 +111,5 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=FF5733&width=435&lines=Stay+tuned+for+more+updates!+💥;Reach+out+for+collaboration+or+guidance!+%F0%9F%91%8C" alt="Typing Animation" />
-</p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=FFFFF&width=435&lines=Stay+tuned+for+more+updates!+💥;Reach+out+for+collaboration+or+guidance!+%F0%9F%91%8C" alt="Typing Animation" />
 </p>
