@@ -97,18 +97,6 @@
 
 ---
 
-<p align="center">
-##  My GitHub Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deep-45deepak&show_icons=true&count_private=true&hide_title=true&include_all_commits=true" alt="Commits This Year" />
-</div>
-
-
-</p>
-
----
-
 <h2 align="center">🔥 Let's Build Something Amazing Together! 🤝</h2>
 
 <p align="center">
