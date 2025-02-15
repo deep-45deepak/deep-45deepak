@@ -33,6 +33,13 @@
 
 <ul>
   <li>
+    <h4>3. Trip Recommendation App 🌍</h4>
+    <p><b>Tech Stack:</b>MERN stack and Java, Spring Boot</p>
+    <p>A smart trip planner that suggests destinations based on user preferences, budget, and other factors.</p>
+    <p>Special Thanks to my friend Chirag Singh.</p>
+    <a href="https://9000-idx-travelmate-1739624337430.cluster-bec2e4635ng44w7ed22sa22hes.cloudworkstations.dev/?monospaceUid=537998">🔗 View the Project</a>
+  </li>
+  <li>
     <h4>1. Blog Website 📝</h4>
     <p><b>Tech Stack:</b> React, Node.js, MongoDB</p>
     <p>A fully functional blog platform where users can create, edit, and view blog posts.</p>
@@ -45,6 +52,7 @@
     <a href="#">🔗 View the Project</a>
   </li>
 </ul>
+
 
 ---
 
