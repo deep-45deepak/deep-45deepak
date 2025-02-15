@@ -40,13 +40,13 @@
     <a href="https://9000-idx-travelmate-1739624337430.cluster-bec2e4635ng44w7ed22sa22hes.cloudworkstations.dev/?monospaceUid=537998">🔗 View the Project</a>
   </li>
   <li>
-    <h4>1. Blog Website 📝</h4>
+    <h4>2. Blog Website 📝</h4>
     <p><b>Tech Stack:</b> React, Node.js, MongoDB</p>
     <p>A fully functional blog platform where users can create, edit, and view blog posts.</p>
     <a href="https://dpkblog.netlify.app">🔗 View the Project</a>
   </li>
   <li>
-    <h4>2. Portfolio Website 📂</h4>
+    <h4>1. Portfolio Website 📂</h4>
     <p><b>Tech Stack:</b> HTML, CSS, JavaScript</p>
     <p>My personal portfolio showcasing my skills, projects, and achievements.</p>
     <a href="#">🔗 View the Project</a>
