@@ -12,15 +12,6 @@
   <li>🧠 <b>Learning:</b> Data Structures, Algorithms, and Web Development.</li>
 </ul>
 
-<h3>Programming and Development Skills</h3>
-<ul>
-  <li>JavaScript 🔥</li>
-  <li>Python 🐍</li>
-  <li>C 💻</li>
-  <li>HTML & CSS 🌐</li>
-  <li>Tailwind CSS 🍃</li>
-</ul>
-
 ---
 
 <h2>🚀 Tech Stack 🛠</h2>
@@ -58,11 +49,9 @@
 ---
 
 <h2>🏆 Achievements 🏅</h2>
-
 <ul>
   <li>🏁 <b>HackMor Participant:</b> Gained valuable experience, super excited to keep improving my skills! 💪</li>
 </ul>
-
 ---
 
 <h2>🌍 Connect with Me 🌐</h2>
