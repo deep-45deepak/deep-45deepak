@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to my Github Profile🍃<br>I'm Deepak</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=500&color=FFFFF&width=435&lines=Hello+there!+😎;I'm+a+passionate+CSE+student+%F0%9F%92%BB;Let's+code%2C+learn%2C+and+grow+together!+🚀" alt="Typing Animation" />
+<img src="https://readme-typing-svg.herokuapp.com?font=BalloBhai2&duration=4000&pause=500&color=FFFFF&width=435&lines=Hello+there!+😎;I'm+a+passionate+CSE+student+%F0%9F%92%BB;Let's+code%2C+learn%2C+and+grow+together!+🚀" alt="Typing Animation" />
 </p>
 
 
@@ -69,25 +69,6 @@
   <li><b>GitHub:</b> <a href="https://github.com/deep-45deepak"> @deep.45deepak 🍃</a></li>
   <li><b>LinkedIn:</b> <a href="https://www.linkedin.com/in/deepak-kumar-15690b323?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"> Deepak Kumar 🍃</a></li>
   <li><b>Portfolio:</b> <a href="https://www.deepakportfolio.com"> @dpkportfolio 💼</a></li>
-</ul>
-
----
-
-<h2>📚 Learning & Growth 🚀</h2>
-
-<p>I believe in constant growth and am always learning new things to enhance my coding skills:</p>
-<ul>
-  <li><b>Current Learning:</b> Development</li>
-  <li><b>Future Goals:</b> Build open-source contributions, grow my portfolio, and enhance problem-solving skills.</li>
-</ul>
-
----
-
-<h2>✨ Fun Facts About Me 😎</h2>
-
-<ul>
-  <li>I love solving complex coding problems and algorithm challenges. 🧩</li>
-  <li>I enjoy exploring new technologies, tools, and frameworks. 🧑‍💻</li>
 </ul>
 
 ---
