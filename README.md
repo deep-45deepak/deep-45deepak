@@ -17,7 +17,7 @@
 <h2 align="center">🚀 Tech Stack 🛠</h2>
 
 <ul align="center">
-  <li><b>Frontend:</b> HTML5 🔥 | CSS3 🌈 | JavaScript 🖥 | TailwindCSS 💨 | React ⚛</li>
+  <li style="none" ><b>Frontend:</b> HTML5 🔥 | CSS3 🌈 | JavaScript 🖥 | TailwindCSS 💨 | React ⚛</li>
   <li><b>Backend:</b> Node.js 🟩 | Express.js 🖤</li>
   <li><b>Databases:</b> MongoDB 🟩</li>
   <li><b>Version Control:</b> GitHub 🐙 | Git 🧑‍💻</li>
