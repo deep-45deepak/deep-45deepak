@@ -5,18 +5,18 @@
 </p>
 
 
-<h2>🌱 About Me</h2>
+<h2 align="center>🌱 About Me</h2>
 
-<ul>
+<ul align="center">
   <li>🎓 <b>Currently:</b> A B.Tech student specializing in Computer Science Engineering (CSE).</li>
   <li>🧠 <b>Learning:</b> Data Structures, Algorithms, and Web Development.</li>
 </ul>
 
 ---
 
-<h2>🚀 Tech Stack 🛠</h2>
+<h2 align="center">🚀 Tech Stack 🛠</h2>
 
-<ul>
+<ul align="center">
   <li><b>Frontend:</b> HTML5 🔥 | CSS3 🌈 | JavaScript 🖥 | TailwindCSS 💨 | React ⚛</li>
   <li><b>Backend:</b> Node.js 🟩 | Express.js 🖤</li>
   <li><b>Databases:</b> MongoDB 🟩</li>
@@ -29,9 +29,9 @@
 
 ---
 
-<h2>💡 My Projects 🔧</h2>
+<h2 align="center">💡 My Projects 🔧</h2>
 
-<ul>
+<ul align="center">
   <li>
     <h4>3. Trip Recommendation App 🌍</h4>
     <p><b>Tech Stack:</b>MERN stack and Java, Spring Boot</p>
@@ -56,15 +56,9 @@
 
 ---
 
-<h2>🏆 Achievements 🏅</h2>
-<ul>
-  <li>🏁 <b>HackMor Participant:</b> Gained valuable experience, super excited to keep improving my skills! 💪</li>
-</ul>
----
+<h2 align="center">🌍 Connect with Me 🌐</h2>
 
-<h2>🌍 Connect with Me 🌐</h2>
-
-<ul>
+<ul align="center">
   <li><b>Twitter:</b> <a href="https://x.com/dpk45deepak?t=rHcZO5TpBVN69gHSD3y4Ew&s=08"> @dpk.45deepak 🍃</a></li>
   <li><b>GitHub:</b> <a href="https://github.com/deep-45deepak"> @deep.45deepak 🍃</a></li>
   <li><b>LinkedIn:</b> <a href="https://www.linkedin.com/in/deepak-kumar-15690b323?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"> Deepak Kumar 🍃</a></li>
