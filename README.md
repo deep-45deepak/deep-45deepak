@@ -7,21 +7,21 @@
 
 <h2 align="center>🌱 About Me</h2>
 
-<ul align="center">
-  <li>🎓 <b>Currently:</b> A B.Tech student specializing in Computer Science Engineering (CSE).</li>
-  <li>🧠 <b>Learning:</b> Data Structures, Algorithms, and Web Development.</li>
-</ul>
+<div align="center">
+  <span>🎓 <b>Currently:</b> A B.Tech student specializing in Computer Science Engineering (CSE).</span>
+  <span>🧠 <b>Learning:</b> Data Structures, Algorithms, and Web Development.</span>
+</div>
 
 ---
 
 <h2 align="center">🚀 Tech Stack 🛠</h2>
 
-<ul align="center">
-  <li style="none" ><b>Frontend:</b> HTML5 🔥 | CSS3 🌈 | JavaScript 🖥 | TailwindCSS 💨 | React ⚛</li>
-  <li><b>Backend:</b> Node.js 🟩 | Express.js 🖤</li>
-  <li><b>Databases:</b> MongoDB 🟩</li>
-  <li><b>Version Control:</b> GitHub 🐙 | Git 🧑‍💻</li>
-</ul>
+<div align="center">
+  <p style="none" ><b>Frontend:</b> HTML5 🔥 | CSS3 🌈 | JavaScript 🖥 | TailwindCSS 💨 | React ⚛</p>
+  <p><b>Backend:</b> Node.js 🟩 | Express.js 🖤</p>
+  <p><b>Databases:</b> MongoDB 🟩</p>
+  <p><b>Version Control:</b> GitHub 🐙 | Git 🧑‍💻</p>
+</div>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=21D4FD&width=435&lines=Exploring+new+technologies...;Frontend%2C+Backend%2C+and+Databases+%F0%9F%94%8D" alt="Typing Animation" />
@@ -31,39 +31,39 @@
 
 <h2 align="center">💡 My Projects 🔧</h2>
 
-<ul align="center">
-  <li>
+<div align="center">
+  <div>
     <h4>3. Trip Recommendation App 🌍</h4>
     <p><b>Tech Stack:</b>MERN stack and Java, Spring Boot</p>
     <p>A smart trip planner that suggests destinations based on user preferences, budget, and other factors.</p>
     <p>Special Thanks to my friend Chirag Singh.</p>
     <a href="https://9000-idx-travelmate-1739624337430.cluster-bec2e4635ng44w7ed22sa22hes.cloudworkstations.dev/?monospaceUid=537998">🔗 View the Project</a>
-  </li>
-  <li>
+  </div>
+  <div>
     <h4>2. Blog Website 📝</h4>
     <p><b>Tech Stack:</b> React, Node.js, MongoDB</p>
     <p>A fully functional blog platform where users can create, edit, and view blog posts.</p>
     <a href="https://dpkblog.netlify.app">🔗 View the Project</a>
-  </li>
-  <li>
+  </div>
+  <div>
     <h4>1. Portfolio Website 📂</h4>
     <p><b>Tech Stack:</b> HTML, CSS, JavaScript</p>
     <p>My personal portfolio showcasing my skills, projects, and achievements.</p>
     <a href="https://dpkk.netlify.app/">🔗 View the Project</a>
-  </li>
-</ul>
+  </div>
+</div>
 
 
 ---
 
 <h2 align="center">🌍 Connect with Me 🌐</h2>
 
-<ul align="center">
-  <li><b>Twitter:</b> <a href="https://x.com/dpk45deepak?t=rHcZO5TpBVN69gHSD3y4Ew&s=08"> @dpk.45deepak 🍃</a></li>
-  <li><b>GitHub:</b> <a href="https://github.com/deep-45deepak"> @deep.45deepak 🍃</a></li>
-  <li><b>LinkedIn:</b> <a href="https://www.linkedin.com/in/deepak-kumar-15690b323?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"> Deepak Kumar 🍃</a></li>
-  <li><b>Portfolio:</b> <a href="https://www.deepakportfolio.com"> @dpkportfolio 💼</a></li>
-</ul>
+<div align="center">
+  <div><b>Twitter:</b> <a href="https://x.com/dpk45deepak?t=rHcZO5TpBVN69gHSD3y4Ew&s=08"> @dpk.45deepak 🍃</a></div>
+  <div><b>GitHub:</b> <a href="https://github.com/deep-45deepak"> @deep.45deepak 🍃</a></div>
+  <div><b>LinkedIn:</b> <a href="https://www.linkedin.com/in/deepak-kumar-15690b323?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"> Deepak Kumar 🍃</a></div>
+  <div><b>Portfolio:</b> <a href="https://dpkk.netlify.app/"> @dpkportfolio 💼</a></div>
+</div>
 
 ---
 
