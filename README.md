@@ -49,7 +49,7 @@
     <h4>1. Portfolio Website 📂</h4>
     <p><b>Tech Stack:</b> HTML, CSS, JavaScript</p>
     <p>My personal portfolio showcasing my skills, projects, and achievements.</p>
-    <a href="#">🔗 View the Project</a>
+    <a href="https://dpkk.netlify.app/">🔗 View the Project</a>
   </li>
 </ul>
 
