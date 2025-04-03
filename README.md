@@ -38,7 +38,7 @@
         <p><b>Tech Stack:</b> MERN stack and Java, Spring Boot</p>
         <p>A smart trip planner that suggests destinations based on user preferences, budget, and other factors.</p>
         <p>Special Thanks to my friend Chirag Singh.</p>
-        <a href="https://9000-idx-travelmate-1739624337430.cluster-bec2e4635ng44w7ed22sa22hes.cloudworkstations.dev/?monospaceUid=537998">🔗 View the Project</a>
+        <a href="https://tripmate-isa7.onrender.com">🔗 View the Project</a>
       </td>
       <td width="33%" align="center" style="background-color: #ccffcc; padding: 15px; border-radius: 10px;">
         <h4>2. Blog Website 📝</h4>
