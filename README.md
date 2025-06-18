@@ -3,58 +3,37 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=BalloBhai2&duration=4000&pause=500&color=FFFFF&width=435&lines=Hello+there!+😎;I'm+a+passionate+CSE+student+%F0%9F%92%BB;Let's+code%2C+learn%2C+and+grow+together!+🚀" alt="Typing Animation" />
 </p>
+<h2 align="center">🌱 About Me</h2>
 
-
-<h2 align="center>🌱 About Me</h2>
-
-<div align="center">
-  <span>🎓 <b>Currently:</b> A B.Tech student specializing in Computer Science Engineering (CSE).</span>
-  <span>🧠 <b>Learning:</b> Data Structures, Algorithms, and Web Development.</span>
-</div>
+<p align="center">
+  👋 Hi! I'm <b>Deepak Kumar</b>, a B.Tech CSE student who loves building and exploring tech.<br>
+  💡 I’m always learning — currently diving deep into <b>DSA</b>, <b>Web Dev</b>, and <b>Cloud + AI/ML</b>.<br>
+  🔭 I enjoy building projects that solve real-world problems and challenge my skills.
+</p>
 
 ---
 
-<h2 align="center">🚀 Tech Stack 🛠</h2>
+<h2 align="center">🚀 Tech Stack</h2>
 
-<div align="center">
-  <p style="none" ><b>Frontend:</b> HTML5 🔥 | CSS3 🌈 | JavaScript 🖥 | TailwindCSS 💨 | React ⚛</p>
-  <p><b>Backend:</b> Node.js 🟩 | Express.js 🖤</p>
-  <p><b>Databases:</b> MongoDB 🟩</p>
-  <p><b>Version Control:</b> GitHub 🐙 | Git 🧑‍💻</p>
-</div>
+<p align="center">
+  <b>Frontend:</b> HTML5 • CSS3 • JavaScript • TailwindCSS • React ⚛️ <br>
+  <b>Backend:</b> Node.js • Express.js ⚙️ <br>
+  <b>Database:</b> MongoDB 🍃 <br>
+  <b>BAAS Platform</b> Firebase ✅, AppWrite ☑️ <br>
+  <b>Tools:</b> Git • GitHub • Firebase Studio • VS Code • PyCharm • Postman <br>
+</p>
+
+---
+
+<h2 align="center">📫 Let’s Connect</h2>
+
+<p align="center">
+  💬 Always up for collaboration or tech talk! Feel free to connect on LinkedIn or drop a message. 🚀<br>
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=21D4FD&width=435&lines=Exploring+new+technologies...;Frontend%2C+Backend%2C+and+Databases+%F0%9F%94%8D" alt="Typing Animation" />
 </p>
-
----
-<h2 align="center">💡 My Projects 🔧</h2>
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="33%" align="center" style="background-color: #ffcccc; padding: 15px; border-radius: 10px;">
-        <h4>3. Trip Recommendation App 🌍</h4>
-        <p><b>Tech Stack:</b> MERN stack and Java, Spring Boot</p>
-        <p>A smart trip planner that suggests destinations based on user preferences, budget, and other factors.</p>
-        <p>Special Thanks to my friend Chirag Singh.</p>
-        <a href="https://tripmate-dpk.netlify.app/">🔗 View the Project</a>
-      </td>
-      <td width="33%" align="center" style="background-color: #ccffcc; padding: 15px; border-radius: 10px;">
-        <h4>2. Blog Website 📝</h4>
-        <p><b>Tech Stack:</b> React, Node.js, MongoDB</p>
-        <p>A fully functional blog platform where users can create, edit, and view blog posts.</p>
-        <a href="https://dpkblog.netlify.app">🔗 View the Project</a>
-      </td>
-      <td width="33%" align="center" style="background-color: #ccccff; padding: 15px; border-radius: 10px;">
-        <h4>1. Portfolio Website 📂</h4>
-        <p><b>Tech Stack:</b> HTML, CSS, JavaScript</p>
-        <p>My personal portfolio showcasing my skills, projects, and achievements.</p>
-        <a href="https://dpkk.netlify.app/">🔗 View the Project</a>
-      </td>
-    </tr>
-  </table>
-</div>
 
 ---
 
